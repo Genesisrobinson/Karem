@@ -1,0 +1,4 @@
+# Created at 2022-10-14T02:06:59.435
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Users\kareesha\OneDrive - Capgemini\Desktop\SeleniumDemo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
