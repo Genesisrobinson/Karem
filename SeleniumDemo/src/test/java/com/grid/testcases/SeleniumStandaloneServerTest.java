@@ -14,7 +14,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class ServletCopyCode {
+public class SeleniumStandaloneServerTest {
 	
 	@Test
 	 private void Tests1() throws MalformedURLException, InterruptedException {
