@@ -16,37 +16,37 @@
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>  
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests4">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>     
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests5">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>     
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests6">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>     
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests7">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>     
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests8">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>     
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests9">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
    </test>     
- <test name = "Parallel Tests3">
+ <test name = "Parallel Tests10">
       <classes>
          <class name = "com.grid.testcases.SeleniumStandaloneServerTest2" />
       </classes>
