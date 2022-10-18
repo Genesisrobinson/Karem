@@ -31,7 +31,7 @@ public class SeleniumStandaloneServerTest {
 		 chromeOptions.addArguments("--disable-popup-blocking");
 		 chromeOptions.addArguments("--headless");
 		 //chromeOptions.setCapability("browserVersion", "100");
-		 chromeOptions.setCapability("platformName", "Linux");
+		 chromeOptions.setCapability("platformName", "Windows");
 		 // Showing a test name instead of the session id in the Grid UI
 		 chromeOptions.setCapability("se:name", "My simple test"); 	 
 		 chromeOptions.setCapability("se:sampleMetadata", "Sample metadata value");	 
